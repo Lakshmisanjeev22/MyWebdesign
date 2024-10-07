@@ -1,4 +1,4 @@
 # MyWebdesign
 My Practise For Front End
 <br>
-Author - Lakshmi Sanjeev
+Author - Lakshmi Sanjeev (Designer)
